@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SP 1 -  3x3 random matrix", "SP 1 -  3x3 random matrix\SP 1 -  3x3 random matrix.vcxproj", "{735A3498-7AC6-4F1A-982D-400368F9046E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735A3498-7AC6-4F1A-982D-400368F9046E}.Debug|x64.ActiveCfg = Debug|x64
+		{735A3498-7AC6-4F1A-982D-400368F9046E}.Debug|x64.Build.0 = Debug|x64
+		{735A3498-7AC6-4F1A-982D-400368F9046E}.Debug|x86.ActiveCfg = Debug|Win32
+		{735A3498-7AC6-4F1A-982D-400368F9046E}.Debug|x86.Build.0 = Debug|Win32
+		{735A3498-7AC6-4F1A-982D-400368F9046E}.Release|x64.ActiveCfg = Release|x64
+		{735A3498-7AC6-4F1A-982D-400368F9046E}.Release|x64.Build.0 = Release|x64
+		{735A3498-7AC6-4F1A-982D-400368F9046E}.Release|x86.ActiveCfg = Release|Win32
+		{735A3498-7AC6-4F1A-982D-400368F9046E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE7E2967-F7C3-485F-A9BE-5D412FE88890}
+	EndGlobalSection
+EndGlobal
